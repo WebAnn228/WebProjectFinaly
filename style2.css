@@ -1,0 +1,225 @@
+body {
+    display: flex;
+    justify-content: center;
+    padding: 5px 12%;
+    flex-direction: column;
+    align-self: center;
+}
+
+header {
+    display: flex;
+    border: 2px solid white;
+    width: 1024px;
+    height: 60px;
+    padding: 10px;
+    margin: 1px;
+    justify-content: space-between;
+    align-self: center;
+}
+
+.div6 {
+    text-decoration: none;
+    color: blue;
+}
+
+.div6:hover {
+    color: black;
+}
+
+.bad-script-regular {
+    font-family: "Bad Script", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.bad-script-regular {
+    font-family: "Bad Script", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+}
+
+.t1 {
+    font-size: 36px;
+}
+
+.fleex1 {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    margin: 20px;
+}
+
+.ment {
+    display: flex;
+    transition: 0.3s;
+}
+
+.menu {
+    text-decoration: none;
+    color: black;
+}
+
+.menu:hover {
+    color: blue;
+}
+
+div {
+    display: flex;
+
+}
+
+a {
+    padding: 10px;
+}
+
+main {
+    display: flex;
+    border: 2px solid white;
+    width: 1024px;
+    height: 1680px;
+    padding: 10px;
+    margin: 1px;
+    align-self: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.div7 {
+    display: flex;
+    border: 2px solid white;
+    padding: 15px;
+    margin: auto;
+    flex-direction: row;
+    justify-content: center;
+    align-self: center;
+}
+
+.div8 {
+    border: 2px solid black;
+    width: 400px;
+    height: 366px;
+    background-color: black;
+    color: white;
+    border-radius: 16px 0px 0px 16px;
+    padding: 15px;
+    margin: 15px 0px 15px 15px;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.div9 {
+    border-radius: 16px;
+    margin: 15px 15px 15px 0px;
+}
+
+.img1 {
+    border-radius: 0px 16px 16px 0px;
+}
+
+.t9 {
+    color: blue;
+    font-size: 40px;
+}
+
+.t10 {
+    font-size: 20px;
+}
+
+.div10 {
+    display: flex;
+    border: 2px solid blue;
+    background-color: blue;
+    color: white;
+    width: 120px;
+    height: 60px;
+    padding: 5px;
+    border-radius: 16px;
+    align-items: center;
+    justify-content: center;
+    transition: 0.5s;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.div10:hover {
+    color: black;
+    background-color: white;
+}
+
+.t11 {
+    color: blue;
+}
+
+.t12 {
+    display: flex;
+    text-decoration: none;
+    color: white;
+    background-color: blue;
+    width: 100px;
+    height: 40px;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    border-radius: 16px;
+}
+
+.t12:hover {
+    color: black;
+    background-color: white;
+}
+
+.div13 {
+    display: flex;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 15px 0px 0px 0px;
+}
+
+.img3 {
+    border-radius: 0px 0px 16px 0px;
+}
+
+.img2 {
+    border-radius: 0px 16px 0px 0px;
+}
+
+.div14 {
+    border: 2px solid black;
+    width: 400px;
+    height: 567px;
+    background-color: black;
+    color: white;
+    border-radius: 16px 0px 0px 16px;
+    padding: 15px;
+    margin: 15px 0px 15px 15px;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.div15 {
+    display: flex;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 115px 0px 0px 0px;
+}
+
+.fleex4 {
+    display: flex;
+    border: 2px solid white;
+    width: 1024px;
+    height: 20px;
+    padding: 10px;
+    margin: 1px;
+    align-items: center;
+    flex-direction: column;
+    align-self: center;
+}

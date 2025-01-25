@@ -1,0 +1,242 @@
+body {
+    display: flex;
+    justify-content: center;
+    padding: 5px 12%;
+    flex-direction: column;
+    align-self: center;
+}
+
+header {
+    display: flex;
+    border: 2px solid white;
+    width: 1024px;
+    height: 60px;
+    padding: 10px;
+    margin: 1px;
+    justify-content: space-between;
+    align-self: center;
+}
+
+main {
+    display: flex;
+    border: 2px solid white;
+    width: 1024px;
+    height: 400px;
+    padding: 10px;
+    margin: 1px;
+    align-self: center;
+}
+
+div {
+    display: flex;
+
+}
+
+a {
+    padding: 10px;
+}
+
+.t1 {
+    font-size: 36px;
+}
+
+.fleex1 {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    margin: 20px;
+}
+
+.fleex2 {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.div1 {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid white;
+    width: 370px;
+    height: 370px;
+    margin: auto;
+    padding: 20px;
+}
+
+.div2 {
+    border: 2px solid blue;
+    width: 370px;
+    height: 370px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 16px;
+    background-color: blue;
+}
+
+.spans {
+    border: 1px solid blue;
+    padding: 3px;
+    background-color: blue;
+    color: white;
+    border-radius: 8px;
+}
+
+.t2 {
+    font-size: 18px;
+}
+
+.t3 {
+    font-size: 50px;
+}
+
+.div3 {
+    display: flex;
+    border: 1px solid blue;
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    margin: 3px;
+    border-radius: 8px;
+    width: 100px;
+    height: 65px;
+    align-items: center;
+    justify-content: center;
+}
+
+.t44 {
+    font-size: 25px;
+    text-decoration: none;
+    color: black;
+    transition: 0.3;
+}
+
+.t44:hover {
+    color: blue;
+}
+
+.t4 {
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    transition: 0.3;
+}
+
+.t4:hover {
+    color: black;
+}
+
+
+
+.fleex3 {
+    border: 1px solid white;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    width: 360px;
+    justify-content: space-evenly;
+}
+
+.div4 {
+    display: flex;
+    border: 1px solid grey;
+    padding: 10px;
+    margin: 3px;
+    border-radius: 8px;
+    width: 100px;
+    height: 65px;
+    align-items: center;
+    justify-content: center;
+}
+
+.fleex4 {
+    display: flex;
+    border: 2px solid white;
+    width: 1024px;
+    height: 310px;
+    padding: 10px;
+    margin: 1px;
+    align-items: center;
+    flex-direction: column;
+}
+
+.div5 {
+    display: flex;
+    border: 2px solid white;
+    width: 210px;
+    height: 75px;
+    flex-direction: row;
+    color: blue;
+    justify-content: center;
+    text-decoration: none;
+}
+
+i {
+    font-size: 45px;
+}
+
+.t5 {
+    text-decoration: none;
+    transition: 0.3s;
+    color: blue;
+}
+
+.t5:hover {
+    color: cornflowerblue;
+}
+
+.t6 {
+    text-decoration: none;
+    transition: 0.3s;
+    color: blue;
+}
+
+.t6:hover {
+    color: rgb(108, 193, 23);
+}
+
+.t7 {
+    text-decoration: none;
+    transition: 0.3s;
+    color: blue;
+}
+
+.t7:hover {
+    color: rgb(196, 50, 50);
+}
+
+.ment {
+    display: flex;
+    transition: 0.3s;
+}
+
+.menu {
+    text-decoration: none;
+    color: black;
+}
+
+.menu:hover {
+    color: blue;
+}
+
+.div6 {
+    text-decoration: none;
+    color: blue;
+}
+
+.div6:hover {
+    color: black;
+}
+
+.bad-script-regular {
+    font-family: "Bad Script", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.bad-script-regular {
+    font-family: "Bad Script", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+  }
+  
